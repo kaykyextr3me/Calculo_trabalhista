@@ -1,0 +1,48 @@
+.principal{
+	width:470px;
+	height:410px;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0 auto;
+	border-width: 2px;
+	border-style:solid;
+	color: white;
+	font-style: italic;
+	font-family: 'Times New Roman', Times, serif;
+	}
+
+body{
+	background-color: currentColor;
+}
+
+form{
+	font-style: normal;
+}
+
+#data_recisao{
+	position: absolute;
+	float: right;
+	color: red;
+
+}
+
+#gif{
+	position: absolute;
+	max-width:50px;
+    max-height:35px;
+    width: auto;
+    height: auto;
+}
+
+#acerto{
+    text-align: center;
+    color: white;
+
+}
+
+#quadro_resposta{
+	width:60px;
+	height:50px;
+	background-color: rgb(32, 119, 190);
+
+}
